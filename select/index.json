@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ODDS&ENDS-初音ミク「マジカルミライ」10th Anniversary Live-",
+  "base_artist": "ryo (supercell)、初音ミク",
+  "createdAt": "2026-02-27T16:10:32.992227Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ODDS&ENDS-初音ミク「マジカルミライ」10th Anniversary Live- (feat. 初音ミク)",
+      "artist": "ryo (supercell), 初音ミク",
+      "has_synced": false,
+      "path": "select/pl_01_ODDS&ENDS-初音ミク「マジカルミライ」10th_Anniversary_Live-_(feat._初音ミク)_ryo_(supercell),_初音ミク.txt"
+    }
+  ]
+}
